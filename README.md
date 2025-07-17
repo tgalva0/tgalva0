@@ -1,7 +1,6 @@
 ## Olá, eu sou o Thiago!
 
 - 🌱 Estudando Java
-- 📫 Contate me no email: thigalvao2005@gmail.com
 <div>
   <a href="https://github.com/tgalva0">
   <picture>
